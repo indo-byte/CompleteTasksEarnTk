@@ -1,0 +1,7 @@
+python-telegram-bot==21.10
+pyotp==2.9.0
+pillow==12.1.1
+numpy==2.4.3
+qreader
+opencv-python-headless
+flask
